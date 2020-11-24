@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/4cabb286-2710-49f1-993b-17e446629594/resourceGroups/Test/providers/Microsoft.Web/sites/pausole",
+    "appService.deploySubpath": "."
+}
